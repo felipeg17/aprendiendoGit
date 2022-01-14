@@ -1,7 +1,7 @@
 # aprendiendoGit
 Repo de learning del uso de herramientas en git y github.
 
-Algunas pruebas varias
+Algunas pruebas varias con ejemplos
 
 Instalaci&oacute;n
 ```shell scrip
