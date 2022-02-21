@@ -15,3 +15,5 @@ import numpy as np
 
 Enlace importante para editor md:
 [Editor markdown](https://pandao.github.io/editor.md/en.html "Editor markdown")
+
+Sitio blog: https://felipeg17.github.io/aprendiendoGit/blogpost.html
